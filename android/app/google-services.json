@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "58251455610",
+    "project_id": "spdchatapp",
+    "storage_bucket": "spdchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58251455610:android:91c7c1855f5d48c58b1fc3",
+        "android_client_info": {
+          "package_name": "com.example.spd_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58251455610-peeoi85kh7njb4ligshkuc46c9j19cki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spd_chat",
+            "certificate_hash": "535c795ab9c7d46ca481fab39878209595820e34"
+          }
+        },
+        {
+          "client_id": "58251455610-3j8o8rbscpchlqgehd06mkkj1ud1dtj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdqrHILdgFiWfUgei1F9XtbnVtqHx-wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58251455610-3j8o8rbscpchlqgehd06mkkj1ud1dtj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58251455610-d27vgk8pr1ltrvu54ikviufjc06ho04a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spdChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
